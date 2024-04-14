@@ -82,17 +82,22 @@ plt.show()
 ```
 ## Output:
 
-### Display the input Image
+### Original color Image
 ![image](https://github.com/Augustine0306/erosion-dilation/assets/119404460/30829bae-712e-48b7-b040-bd0e543a6283)
 
 
-### Display the Eroded Image
+### Black and White Image
 ![image](https://github.com/Augustine0306/erosion-dilation/assets/119404460/fb348817-fc74-4233-adf5-2d053ee4affb)
 
 
-### Display the Dilated Image
+### Edge Segmentation
 ![image](https://github.com/Augustine0306/erosion-dilation/assets/119404460/a00b4415-480a-4632-bf1d-53f7d9ed264e)
 
+### Erosion
+![image](https://github.com/Augustine0306/erosion-dilation/assets/119404460/847f285f-0a14-446f-a94d-a7ab74d91fef)
+### Dilation
+![image](https://github.com/Augustine0306/erosion-dilation/assets/119404460/dd43bc00-abdc-46a2-93c3-32b7089f4355)
 
+### 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
